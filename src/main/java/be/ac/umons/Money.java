@@ -1,4 +1,4 @@
-ackage be.ac.umons;
+package be.ac.umons;
 
 public class Money {
 
